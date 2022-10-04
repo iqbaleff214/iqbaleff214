@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iqbaleff214, you can call me Iqbal or Fendi.
+- 👋 Hi, I’m M. Iqbal Effendi, you can call me Iqbal or Fendi.
 - 👀 I’m interested in backend technologies.
 - 🌱 I’m currently working at [PT Forstok Teknologi Indonesia](https://forstok.com) as a Software Engineer
 - 💞️ I’m really like One Piece, you know hehe
