@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @iqbaleff214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-iqbaleff214/iqbaleff214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @iqbaleff214, you can call me Iqbal or Fendi.
+- 👀 I’m interested in backend technologies.
+- 🌱 I’m currently working at [PT Forstok Teknologi Indonesia](https://forstok.com) as a Software Engineer
+- 💞️ I’m really like One Piece, you know hehe
+- 📫 How to reach me on email (iqbaleff214@gmail.com), [telegram](https://t.me/iqbaleff214), or [LinkedIn](https://www.linkedin.com/in/iqbaleff214).
