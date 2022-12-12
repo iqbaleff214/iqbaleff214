@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M. Iqbal Effendi, you can call me Iqbal or Fendi.
 - 👀 I’m interested in backend technologies.
 - 🌱 I’m currently working at [PT Forstok Teknologi Indonesia](https://forstok.com) as a Software Engineer
-- 💞️ I’m really like One Piece, you know hehe
-- 📫 How to reach me on email (iqbaleff214@gmail.com), [telegram](https://t.me/iqbaleff214), or [LinkedIn](https://www.linkedin.com/in/iqbaleff214).
+- 💞️ I really like One Piece, you know hehe
+- 📫 You can reach me on email (iqbaleff214@gmail.com), [telegram](https://t.me/iqbaleff214), or [LinkedIn](https://www.linkedin.com/in/iqbaleff214).
