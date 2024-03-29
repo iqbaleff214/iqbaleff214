@@ -18,13 +18,13 @@ I'm a software engineer with a strong passion for backend engineering. I have ap
 <br />
 
 <div align="center">
-  <a href="https://t.me/iqbaleff214#gh-light-mode-only">
+  <a href="https://t.me/iqbaleff214">
     <img src="https://img.shields.io/badge/message-%40iqbaleff214-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=iqbaleff214#gh-light-mode-only">
+  <a href="https://twitter.com/intent/follow?screen_name=iqbaleff214">
     <img src="https://img.shields.io/badge/follow-%40iqbaleff214-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
   </a>
-  <a href="https://www.linkedin.com/in/iqbaleff214#gh-light-mode-only">
+  <a href="https://www.linkedin.com/in/iqbaleff214">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
   </a>
 </div>
