@@ -42,7 +42,7 @@ h1 {
 #app {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem 5rem;
+  padding: 2rem 8rem;
 }
 
 button {
@@ -64,15 +64,51 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.two-column {
+  display: flex;
+  justify-content: space-between;
+}
+
+.two-column :first-child {
+  text-align: left;
+}
+
+.two-column :last-child {
+  text-align: right;
+}
+
+.inside-section {
+  margin-bottom: 1.5rem;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
+    color: #617586;
     background-color: #ffffff;
   }
+
+  h1, h2, h3, h4, h5, h6, b {
+    color: #213547;
+  }
+
   a:hover {
     color: #747bff;
   }
   button {
     background-color: #f9f9f9;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #app {
+    padding: 2rem 2rem;
+  }
+
+  .two-column {
+    flex-direction: column;
+  }
+
+  .two-column :last-child {
+    text-align: left;
   }
 }
