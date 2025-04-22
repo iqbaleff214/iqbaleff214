@@ -1,8 +1,10 @@
-### Hi, I'm Iqbal. 👋
+### What's Up Homie, It's Iqbal! ✌️😎
 
 [![Github](https://img.shields.io/github/followers/iqbaleff214?label=Follow&style=social)](https://github.com/iqbaleff214)
 
-I'm a software engineer with a strong passion for backend engineering. I have approximately 2 years of experience as a backend engineer, with the last two years focused on using Go as my primary programming language. Additionally, I have freelanced in various roles, including full-stack development, game development, and mobile app development. Feel free to explore my open-source projects on GitHub at [404NotFoundIndonesia](https://github.com/404NotFoundIndonesia).
+I’m a software developer with a strong focus on backend engineering. I’ve been building software professionally since 2021, primarily using Go and Laravel for backend development. Lately, I’ve also been working a lot with Svelte and Vue on the frontend side.
+
+I’ve taken on various freelance projects—from full-stack web apps to mobile apps and even game development. I enjoy crafting clean, efficient code and building systems that solve real-world problems. Feel free to check out some [open-source projects](https://github.com/404NotFoundIndonesia) I’ve contributed to as part of [404 Not Found Indonesia](https://404notfound.fun), an independent dev team building tools and apps we love.
 
 <div align="center"> 
   <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqbaleff214&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Iqbal's Language stats" />
