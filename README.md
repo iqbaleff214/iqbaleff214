@@ -6,13 +6,6 @@ I’m a software developer with a strong focus on backend engineering. I’ve be
 
 I’ve taken on various freelance projects—from full-stack web apps to mobile apps and even game development. I enjoy crafting clean, efficient code and building systems that solve real-world problems. Feel free to check out some [open-source projects](https://github.com/404NotFoundIndonesia) I’ve contributed to as part of [404 Not Found Indonesia](https://404notfound.fun), an independent dev team building tools and apps we love.
 
-<div align="center"> 
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqbaleff214&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Iqbal's Language stats" />
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iqbaleff214&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Iqbal's Github stats" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaleff214"/>
 </div>
